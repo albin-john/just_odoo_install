@@ -1,0 +1,1 @@
+# just_odoo_install
